@@ -1,69 +1,248 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is John Chris Magtuba
-===========================================================================================================================================
+<h1 align="center">Hi, I'm John Chris Magtuba 👋</h1>
 
-BSIT Student from Universidad De Manila
-------------
+<h3 align="center">
+  BSIT Student @ Universidad de Manila 💻
+</h3>
 
-# 💫 About Me:
-Hi there! 👋 I’m a BSIT student with a passion for technology, coding, and problem-solving. I’m constantly exploring new programming languages and tools to improve my skills and build projects that make an impact.
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+    width="100"
+    alt="Cute animation"
+  />
+</p>
 
-* 🧠  I'm currently learning Python, Node.Js, PHP, MySQL, Front-end Frameworks, Database Integration, Game Dev Concepts.
-* 🔭 I'm currently working on with mini system like E-commerce Purchasing System, LRT Ticketing System, and Game Development
-* I'm interested in AI Concepts and Machine Learning.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=BSIT+Student;Aspiring+Full-Stack+Developer;PHP+%7C+Python+%7C+JavaScript;Exploring+AI+%26+Machine+Learning;Always+Building+Something+New+%E2%9C%A8"
+    alt="Typing SVG"
+  />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeysii-zen&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jeysii-zen?label=Followers&style=for-the-badge&color=ff79c6" alt="GitHub Followers" />
+</p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeysii-zen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeysii-zen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-# 💻 Tech Stack:
-<div align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-</div>
+## 💫 About Me
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/https://discord.gg/vDJzWmPE)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](magtubacamp25@gmail.com)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/_jeyciiii_) 
+> 🧑‍💻 **BSIT Student • Developer • Learner • Builder**
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+I'm a BSIT student with a passion for technology, coding, and problem-solving.  
+I'm constantly exploring new languages and tools to sharpen my skills and build projects that make an impact.
 
+- 🧠 Currently learning **Python, Node.js, PHP, MySQL**
+- 🌐 Exploring **Front-end Frameworks & Database Integration**
+- 🎮 Learning **Game Development Concepts**
+- 🔭 Building an **E-Commerce Purchasing System**
+- 🚆 Working on an **LRT Ticketing System**
+- 🤖 Interested in **AI Concepts & Machine Learning**
+- 💡 I enjoy turning ideas into working projects
+- 📚 Always learning something new
 
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" alt="Programming Languages" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,tailwind,git,github,vscode" alt="Tools and Technologies" />
+</p>
+
+### 🎯 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,express,ai,tensorflow" alt="Currently Exploring" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Jeysii-zen">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=Jeysii-zen&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
+      alt="John Chris's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/Jeysii-zen">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysii-zen&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Jeysii-zen&theme=dracula&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 My Coding Activity
+
+<p align="center">
+  <a href="https://github.com/Jeysii-zen">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Jeysii-zen&theme=dracula&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Jeysii-zen&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Jeysii-zen/Jeysii-zen/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Jeysii-zen/Jeysii-zen/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Jeysii-zen/Jeysii-zen/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce System
+
+A small purchasing system focused on learning:
+
+- PHP
+- MySQL
+- Database Integration
+- CRUD Operations
+
+</td>
+
+<td width="50%">
+
+### 🚆 LRT Ticketing System
+
+A student project exploring:
+
+- Ticket Management
+- User Interaction
+- Database Systems
+- PHP & MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Game Development
+
+Exploring:
+
+- Game Logic
+- Programming Concepts
+- Game Mechanics
+- Interactive Systems
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+Currently exploring:
+
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Future AI Projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Jeysii-zen">
+  <img src="https://img.shields.io/badge/GitHub-Jeysii--zen-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="mailto:magtubacamp25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://instagram.com/_jeyciiii_">
+  <img src="https://img.shields.io/badge/Instagram-_jeyciiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://discord.gg/vDJzWmPE">
+  <img src="https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+</p>
+
+---
+
+## 💜 A Little Message
+
+<p align="center">
+  <i>
+    "Keep learning. Keep building. Keep improving. ✨"
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
+</p>
 
 <!--
-**Jeysii-zen/Jeysii-zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Profile README
+  GitHub: https://github.com/Jeysii-zen
 -->
