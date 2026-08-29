@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=FE8019&center=true&vCenter=true&random=false&width=680&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;BSIT+Student+at+Universidad+de+Manila+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;Building+Secure+%26+Real-World+Systems+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3200&pause=900&color=FE8019&center=true&vCenter=true&random=false&width=680&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;BSIT+Student+at+Universidad+de+Manila+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;Building+Secure+%26+Real-World+Systems+%E2%9A%A1"
     alt="Typing SVG"
   />
 </p>
@@ -131,6 +131,17 @@ Side-of-desk experiments — game mechanics and AI/ML fundamentals, mostly in Py
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeysii-zen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100" />
 </p>
 
 ---
