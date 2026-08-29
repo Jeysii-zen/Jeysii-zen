@@ -135,14 +135,6 @@ Side-of-desk experiments — game mechanics and AI/ML fundamentals, mostly in Py
 
 ---
 
-# 📈 My Coding Journey
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FE8019/Jeysii-zen" alt="Jeysii-zen's GitHub Contribution Chart" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
